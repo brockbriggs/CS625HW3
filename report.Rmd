@@ -1,0 +1,20 @@
+---
+title: "HW3 - Recreate Charts, CS625, Fall 2022"
+author: "Brock Briggs"
+date: '2022-10-05'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(rmarkdown)
+library(tidyverse)
+```
+
+
+## Part 1. Choose one Chart
+
+
+
+```
+read.csv()
